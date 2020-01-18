@@ -1,0 +1,5 @@
+com\example\jdbc\example\YamalConfigRunner.class
+com\example\jdbc\example\PostgreSqlExample.class
+com\example\jdbc\example\Connection.class
+com\example\jdbc\example\DatabaseConnect.class
+com\example\jdbc\example\Configuration.class

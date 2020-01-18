@@ -1,0 +1,18 @@
+version: 1.0
+released: 2012-11-30
+
+#Connection parameters
+
+connection:
+    url: jdbc:postgresql://127.0.0.1:5431/example
+    poolSize: 5
+
+#protocosl
+protocols:
+  - http
+  - https
+
+#Users
+
+users:
+  postgres: root
